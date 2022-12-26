@@ -1,16 +1,22 @@
 {
   "streams": [
     {
-      "title": "afang@clopen",
-      "description": "123",
-      "userId": "103399761914576819424",
-      "id": 8
+      "title": "Stream by another person",
+      "description": "User 123 is live!",
+      "userId": "101416988666754764496",
+      "id": 3
     },
     {
-      "title": "this is a new stream",
-      "description": "description here",
+      "title": "First live-stream by Alex",
+      "description": "Goodbye world",
       "userId": "101559602013404450153",
-      "id": 9
+      "id": 4
+    },
+    {
+      "title": "Some stream",
+      "description": "streamer abc is live!",
+      "userId": "101416988666754764496",
+      "id": 5
     }
   ]
 }
